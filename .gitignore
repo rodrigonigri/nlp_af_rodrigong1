@@ -1,0 +1,7 @@
+# gitignore --> .streamlit/secrets.toml
+
+# Ignorar o arquivo de segredos do Streamlit
+.streamlit/secrets.toml
+
+# Ignorar os embeddings do GloVe
+glove.6B
